@@ -9,8 +9,6 @@ public class prog4{
 
 	pvpFinal = pvp * IVA + pvp;
 	System.out.println("Precio final con IVA " + pvpFinal);
-
-
-
-
 }
+
+Viendo ejercicio en java
